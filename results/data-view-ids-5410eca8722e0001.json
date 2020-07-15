@@ -1,0 +1,58 @@
+{
+  "channels": [
+    {
+      "links": {
+        "self": "https://core.eniscope.com/v1/1/dataChannels"
+      },
+      "deviceId": "41281",
+      "uuId": "5410ECA8722E0001",
+      "parentId": null,
+      "organizationId": "17159",
+      "subscriptionId": null,
+      "deviceTypeId": "20",
+      "binaryStoreId": "2",
+      "serviceAgreementId": null,
+      "deviceName": "Meter 1",
+      "registered": "1568836205",
+      "dataPlan": "12",
+      "expires": "1600458605",
+      "renewed": null,
+      "nominalCode": null,
+      "status": "1",
+      "createdBy": "1047",
+      "modifiedBy": "1047",
+      "createdTs": "1568835813",
+      "modifiedTs": "1582228415",
+      "vendor": null,
+      "vendor_id": null,
+      "vendor_format_id": null,
+      "vendor_parent_id": null,
+      "interfaceName": "Onboard",
+      "dataChannelId": "59155",
+      "tariffId": null,
+      "timePeriodId": null,
+      "displayedPhase": "system",
+      "channelName": "TAB TAE PISO-VENTA",
+      "sortOrder": "0",
+      "installedTs": "1568782800",
+      "uninstalledTs": null,
+      "dataType": "grid meter",
+      "meterId": "31297",
+      "pulseLabel": "",
+      "pulseUnits": "",
+      "pulseRatio": null,
+      "pulseEnergyRatio": null,
+      "temperatureEnabled": "0",
+      "sortCode": "1-2-3-519-15438-17157-17158-17159-",
+      "organizationName": "SORIANA CUMBRES (24)",
+      "isMeteringPoint": true,
+      "costEnabled": false
+    }
+  ],
+  "meta": {
+    "currentPage": 1,
+    "recordsPerPage": 20,
+    "recordCount": 1,
+    "pageCount": 1
+  }
+}
