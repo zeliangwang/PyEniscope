@@ -10,7 +10,7 @@ headers = {'X-Eniscope-API': "<API Key>",
 auth = HTTPBasicAuth('<Username>', '<Password>')  
 ```
 
-Note that the script has been tested working under `Python 3.6`. For the retrieved data samples, please see the [results/](results/) directory.
+Note that the `<Password>` should be an MD5 hash which is generated based on your assigned password. The script has been tested working under `Python 3.6`. For the retrieved data samples, please see the [results/](results/) directory.
 
 For further details, please refer to [ENISCOPE API Documents](https://help.bestsupportdesk.com/en/support/tickets/archived/232597)
 
